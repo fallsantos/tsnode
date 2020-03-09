@@ -1,0 +1,7 @@
+{
+  "whath": ["src"],
+  "ext": "ts",
+  "execMap": {
+    "ts": "sucrase-node src/server"
+  }
+}
